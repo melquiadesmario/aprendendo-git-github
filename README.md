@@ -22,6 +22,3 @@ Olá! 👋 Meu nome é Melquiades e este repositório foi criado como parte do m
 - Aprender sobre pull requests e revisões de código
 - Conectar meu repositório com projetos reais
 
----
-
-Se você também está aprendendo ou quer contribuir com dicas, sinta-se à vontade para abrir uma _issue_ ou enviar um _pull request_. Vamos juntos nessa jornada de aprendizado! 💻✨
